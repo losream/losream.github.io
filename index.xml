@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://losream.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Feb 2020 15:03:42 +0800</lastBuildDate>
+    
+	<atom:link href="https://losream.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>1.test hello world</title>
+      <link>https://losream.github.io/post/1/</link>
+      <pubDate>Tue, 18 Feb 2020 15:03:42 +0800</pubDate>
+      
+      <guid>https://losream.github.io/post/1/</guid>
+      <description>你好，世界 </description>
+    </item>
+    
+  </channel>
+</rss>
